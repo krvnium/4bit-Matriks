@@ -10,7 +10,7 @@
 
 The ESP32 creates its own local Wi-Fi network and serves a browser-based pixel editor. Changes made in the web interface are sent to the matrix in real time over WebSocket.
 
-No internet connection is required.
+ No internet connection is required.
 
 ## Demo
 
